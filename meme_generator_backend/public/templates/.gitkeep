@@ -1,0 +1,11 @@
+# Template images directory
+# Place meme template images here with the following naming convention:
+# - {template-id}.jpg - Full size image
+# - {template-id}-thumb.jpg - Thumbnail image
+#
+# Required templates:
+# - drake.jpg / drake-thumb.jpg
+# - distracted-boyfriend.jpg / distracted-boyfriend-thumb.jpg
+# - two-buttons.jpg / two-buttons-thumb.jpg
+# - change-my-mind.jpg / change-my-mind-thumb.jpg
+# - one-does-not-simply.jpg / one-does-not-simply-thumb.jpg
